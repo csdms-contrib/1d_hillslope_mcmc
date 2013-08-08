@@ -1,0 +1,12 @@
+thp_sd: 0.02
+Uhp_sd: 0.4
+Uhw_sd: 0.02
+thp_max: 1
+thp_min: 0
+Uhp_max: 50
+Uhp_min: 0.1
+Uhw_max: 1
+Uhw_min: 0.001
+thp_init: 0.5
+Uhp_init: 10
+Uhw_init: 0.5
